@@ -1,2 +1,2 @@
-# automation
-Created a fun project using Js and Puppeteer.
+# Automation
+This script automates the Easter Egg present on Google Searchbar.
